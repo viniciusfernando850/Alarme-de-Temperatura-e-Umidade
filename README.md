@@ -1,5 +1,4 @@
-# Alarme-de-Temperatura-e-Umidade
-Alarme de Temperatura e Umidade com Arduino.
+# Alarme de Temperatura e Umidade
 <p align="justify">Este projeto consiste na prototipagem de um sistema de controle de temperatura e umidade. O projeto foi desenvolvido com o uso do sensor DHT11 responsável por realizar as medições de temperatura e umidade do ambiente, além de um buzzer e um LED RGB responsáveis pela emissão de alertas.</p>
   
 <br>
